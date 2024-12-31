@@ -41,7 +41,11 @@ This project aims to develop an automated tool for bibliometric analysis of lite
 
 ##  Features
 
-<code>❯ REPLACE-ME</code>
+- **Data Collection** : Automatically gather blockchain-related academic literature from WoS databases.
+- **Data Cleaning** : Remove irrelevant data and predatory journal to ensure the accuracy of the analysis.
+- **Keyword Extraction** : Employ natural language processing techniques to extract keywords from the literature.
+- **Trend Analysis** : Analyze the frequency of keywords to identify research hotspots and trends.
+- **Visualization** : Generate charts and graphs to visually display analysis results.
 
 ---
 
@@ -441,11 +445,7 @@ echo 'INSERT-TEST-COMMAND-HERE'
 
 ##  Contributing
 
-- **Data Collection** : Automatically gather blockchain-related academic literature from WoS databases.
-- **Data Cleaning** : Remove irrelevant data and predatory journal to ensure the accuracy of the analysis.
-- **Keyword Extraction** : Employ natural language processing techniques to extract keywords from the literature.
-- **Trend Analysis** : Analyze the frequency of keywords to identify research hotspots and trends.
-- **Visualization** : Generate charts and graphs to visually display analysis results.
+
 
 <details closed>
 <summary>Contributing Guidelines</summary>
